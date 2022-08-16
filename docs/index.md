@@ -2,7 +2,7 @@
 
 We have a function to calculate Shannon diversity index. It's a great function, so please enjoy it!
 
-
+If you have any doubt do not hesitate on contacting me at the email macataci@hotmail.com
 
 
 You can use the [editor on GitHub](https://github.com/macataci/foo/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
