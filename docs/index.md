@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to foo package, the best package you will have in your life 🥰
+
+We have a function to calculate Shannon diversity index. It's a great function, so please enjoy it!
+
+
+
 
 You can use the [editor on GitHub](https://github.com/macataci/foo/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
